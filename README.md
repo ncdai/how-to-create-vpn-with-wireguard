@@ -13,7 +13,7 @@ Tiếp theo, chúng ta cần kích hoạt **chuyển tiếp IP**.
 nano /etc/sysctl.conf
 ```
 
-Tìm dòng đến `net.ipv4.ip_forward=1` và bỏ dấu `#`
+Tìm dòng `net.ipv4.ip_forward=1` và bỏ dấu `#`
 
 Kích hoạt các thay đổi
 

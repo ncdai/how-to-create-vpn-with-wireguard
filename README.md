@@ -149,3 +149,5 @@ Lấy nội dung cấu hình cho máy tính
 ```bash
 cat /etc/wireguard/client.conf
 ```
+
+> Nguồn : https://www.youtube.com/watch?v=n6OzFDZl-98

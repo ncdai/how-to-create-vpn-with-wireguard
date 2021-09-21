@@ -1,4 +1,4 @@
-# Tự xây dựng VPN cho riêng mình với WireGuard
+# Tự xây dựng VPN cho riêng mình với WireGuard trên Ubuntu
 
 ## Chuẩn bị
 
